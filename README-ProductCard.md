@@ -1,4 +1,4 @@
-# ProductCard Component - React Experiment
+Experiment-3.2
 
 ## Course Outcome Mapped
 
